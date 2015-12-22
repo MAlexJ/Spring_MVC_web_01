@@ -26,5 +26,8 @@
         <module name="Spring_MVC_web_01" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring_MVC_web_01" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
